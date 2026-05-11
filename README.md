@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 Applied Computer Science student & technical high school graduate<br>    — twice awarded the Prime Minister's Scholarship (awarded to the top graduates in Poland)<br><br>⚛️ Frontend developer focused on React & TypeScript<br>    — building real apps with REST APIs, Framer Motion, Tailwind CSS, and Node.js/Express backends<br><br>🌐 Projects: MOVIESTORE (React/TS + Express/TMDB) · 3D Solar System (Three.js, React.js) · IOP (Django)<br><br>💼 Looking for a frontend internship or junior role<br>    — reliable, detail-oriented, always improving
+🎓 Applied Computer Science student & technical high school graduate<br>    — twice awarded the Prime Minister's Scholarship (awarded to the top graduates in Poland)<br><br>⚛️ Frontend developer focused on React & TypeScript<br>    — building real apps with REST APIs, Framer Motion, Tailwind CSS, and Node.js/Express backends<br><br>🌐 Projects: MOVIESTORE (React/TS + Express/TMDB) · 3D Solar System (Three.js, React) · IOP (Django)<br><br>💼 Looking for a frontend internship or junior role<br>    — reliable, detail-oriented, always improving
 
 
 ## 🌐 Socials:
